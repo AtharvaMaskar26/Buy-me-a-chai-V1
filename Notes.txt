@@ -1,0 +1,26 @@
+- npm install hardhat
+
+- npx hardhat -> Javascript
+
+- npm install --save-dev "hardhat@^2.17.0" "@nomicfoundation/hardhat-toolbox@^3.0.0"
+
+- Contracts - Write the contract
+
+- Editing the scripts - deploy.js
+
+- Install tailwind vite dependencies (Configure)
+
+- Update the app.jsx
+
+- Update hardhat.config.js
+
+- ALCHEMY URL AND PRIVATE KEY IN DOTENV
+
+- deploy to sepolia
+- npx hardhat run --network sepolia .\scripts\deploy.js
+
+*** SMART CONTRACT ADDRESS: 0x211F46C54542e91331C5Fe606A6598627F5Bfdeb ***
+
+- Paste this address and copy the ABI into app.jsx
+
+- npm run build
